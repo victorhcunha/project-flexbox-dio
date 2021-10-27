@@ -32,6 +32,10 @@ header .list-items {
   display: flex;
 }
 
+.list-items li a {
+  color: #fff;
+}
+
 header .menu {
   justify-content: space-between;
 }
