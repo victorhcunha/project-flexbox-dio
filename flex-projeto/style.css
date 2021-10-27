@@ -27,6 +27,18 @@ header {
   color: #fff;
 }
 
+footer {
+  background-color: #122a57;
+  height: 70px;
+  display: flex;
+  align-items: center;
+}
+
+footer .footer {
+  justify-content: space-between;
+  color: #fff;
+}
+
 .flex-container {
   display: flex;
   max-width: 992px;
