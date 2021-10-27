@@ -107,3 +107,12 @@ header .menu {
   margin-bottom: 10px;
   width: 90%;
 }
+
+#quem-somos img {
+  min-width: 420px;
+}
+
+.container-externo {
+  background-color: #122a57;
+  width: 100%;
+}
