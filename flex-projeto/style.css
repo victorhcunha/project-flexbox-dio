@@ -43,3 +43,9 @@ header .list-items {
 header .menu {
   justify-content: space-between;
 }
+
+.apresentacao {
+  height: 100vh;
+  align-items: center;
+  justify-content: space-between;
+}
