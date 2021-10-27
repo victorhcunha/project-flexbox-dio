@@ -131,7 +131,7 @@ header .menu {
 
 .list-servicos {
   display: flex;
-  justify-content: space-around;
+  justify-content: space-between;
 }
 
 .list-servicos .item-servico {
@@ -148,11 +148,19 @@ header .menu {
   line-height: 50px;
   padding: 5px 10px;
   color: #122a57;
-  text-align-last: 16px;
+  text-align-last: 14px;
   text-decoration: none;
+  font-weight: 700;
 }
 
 .item-servico p {
   font-weight: 700;
-  font-size: 20px;
+  font-size: 18px;
+  color: #fff;
+  margin-top: 20px;
+}
+
+.item-servico img {
+  width: 80%;
+  margin: auto;
 }
